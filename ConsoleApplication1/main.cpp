@@ -1,5 +1,3 @@
-//C867 Performance Assignment Submission - Aamir Djearam - #009101364
-//Reference has been drawn from: Professor David Bishop's "C++ Ultimate Book Repo" (https://www.youtube.com/playlist?list=PLy3px7ccyKLf6_tlZDlkQPzb-5lcE764W)
 
 #include <iostream>
 #include <string>
